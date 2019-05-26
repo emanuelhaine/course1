@@ -9,3 +9,7 @@ Terminology
  - repo = repository
  - push
  - staging commiting
+
+# Task 1
+This is the change from the task #1.
+Teacher: Kalob Taulien
