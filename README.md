@@ -12,4 +12,5 @@ Terminology
 
 # Task 1
 This is the change from the task #1.
-Teacher: Kalob Taulien
+ - Teacher: Kalob Taulien
+ - Student: Emanuel Haine
